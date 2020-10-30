@@ -103,19 +103,17 @@ class Home extends React.Component {
               <Heading level={3}>Experience</Heading>
               <Text
                 size="small"
-                color="orangered"
-                textAlign="center"
+                color="gray"
+                textAlign="left"
                 style={{
                   fontWeight: "800",
-                  border: "2px solid black",
-                  padding: "8px",
                 }}
               >
-                I am currently working in an renowned startup company called We
-                Over I, symbolized as (We > I). We Over I partners with startups
-                to become their extended product team. So, I got many
-                opportunities to work directly with the international startup
-                founders.
+                I am currently working for
+                <strong style={{ color: "#007fff" }}> We > I </strong> as a
+                Principal Software Engineer and We > I had enabled me to work
+                directly with international startups. Details of the startups
+                are mentioned below.
               </Text>
               <Box datatype="monadd" margin={{ top: "8px" }}>
                 <Heading level={6} color="primary">
