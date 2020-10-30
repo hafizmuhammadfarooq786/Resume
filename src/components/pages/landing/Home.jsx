@@ -104,9 +104,10 @@ class Home extends React.Component {
               <Text
                 size="small"
                 color="gray"
-                textAlign="left"
+                textAlign="start"
                 style={{
                   fontWeight: "800",
+                  marginBottom: "8px",
                 }}
               >
                 I am currently working for
